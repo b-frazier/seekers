@@ -32,6 +32,8 @@ You only need steps 2 and 3 the first time, and again after an update.
 
 ## Update
 
+To hear when a new version comes out, **[join the mailing list](https://seekers.subscribepage.io)**.
+
 1. Download the newest `.dmg` from the link above.
 2. Quit Seekers, open the `.dmg`, drag Seekers onto Applications, and choose **Replace**.
 3. Open Seekers again. If your Mac asks, allow it in **Privacy & Security** as before.
