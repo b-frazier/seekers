@@ -30,6 +30,9 @@ It runs on macOS 13 (Ventura) or later, on any Mac: Apple silicon or Intel.
 
 You only need steps 2 and 3 the first time, and again after an update.
 
+**Seekers never needs Terminal, Python, or anything else installed.** If your Mac offers to install
+"command line developer tools", choose **Cancel**: Seekers doesn't use them, and you don't need them.
+
 ## Update
 
 To hear when a new version comes out, **[join the mailing list](https://seekers.subscribepage.io)**.
@@ -37,6 +40,8 @@ To hear when a new version comes out, **[join the mailing list](https://seekers.
 1. Download the newest `.dmg` from the link above.
 2. Quit Seekers, open the `.dmg`, drag Seekers onto Applications, and choose **Replace**.
 3. Open Seekers again. If your Mac asks, allow it in **Privacy & Security** as before.
+
+As with installing, there's nothing else to download: if your Mac offers developer tools, choose **Cancel**.
 
 Your work isn't touched: it lives in your library folder, not in the app. Programs you've already
 started keep the curriculum version they began with.
